@@ -1,13 +1,13 @@
 <div align="center"><img src="https://media1.tenor.com/m/9bPYGLwfmBwAAAAC/cat-fast-typing.gif"></div>
 <br />
 
-# 👋 Welcome to my profile
+# 👋 Welcome to My Profile
 
 I'm a Frontend Engineer with a robust background in financial technology. My expertise lies in developing efficient and user-friendly interfaces, with a focus on delivering high-quality code and innovative solutions.
 
 I'm currently on a mission to create immersive experiences through the web 🚀✨
 
-## ⚡️ Tech Stack
+## ⚡️ Technology and Tools
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50">
